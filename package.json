@@ -1,0 +1,23 @@
+{
+  "name": "GQSO-2021-914",
+  "version": "1.0.0",
+  "description": "Um parágrafo da descrição do projeto vai aqui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardor2m/GQSO-2021-914.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardor2m/GQSO-2021-914/issues"
+  },
+  "homepage": "https://github.com/eduardor2m/GQSO-2021-914#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

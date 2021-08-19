@@ -4,7 +4,11 @@
   "description": "Um parágrafo da descrição do projeto vai aqui",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "dev": "nodemon ./src/index.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 857137957ffd424f8467947c718f94118a8728d2
   },
   "repository": {
     "type": "git",
@@ -19,8 +23,11 @@
   "homepage": "https://github.com/eduardor2m/GQSO-2021-914#readme",
   "dependencies": {
     "express": "^4.17.1"
+<<<<<<< HEAD
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
+=======
+>>>>>>> 857137957ffd424f8467947c718f94118a8728d2
   }
 }

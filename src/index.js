@@ -10,6 +10,7 @@ app.get('/', (req, res) => {
 app.get('/soma/:a/:b', (req, res) => {
     const { a, b } = req.params;
 
+<<<<<<< HEAD
     if(isNaN(a)){
         return res.status(400).send('Número inválido')
     }else if(isNaN(b)){
@@ -17,6 +18,11 @@ app.get('/soma/:a/:b', (req, res) => {
     }
 
     let result = Number(a) + Number(b);
+=======
+    console.log(a, b)
+
+    let result = a + b;
+>>>>>>> 857137957ffd424f8467947c718f94118a8728d2
 
     res.json({
         result

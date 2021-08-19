@@ -92,5 +92,3 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * Convide alguém da equipe para uma cerveja 🍺 
 * Obrigado publicamente 🤓.
 * etc.
-
-
